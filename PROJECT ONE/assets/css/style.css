@@ -39,4 +39,8 @@ img {
     border-radius: .5rem;
 }
 
-button {}
+.button-stop {
+    text-align: center;
+    padding-top: 30px;
+
+}
